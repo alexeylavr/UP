@@ -35,3 +35,4 @@ Author: Kostya <konstantin.nikolaenka@gmail.com>
 Date:   Tue Feb 9 13:54:11 2021 +0300
 
     add .gitignore
+Goodbye
